@@ -1,0 +1,2 @@
+静态代理模式、JDK动态代理模式、Cglib动态代理模式
+https://www.cnblogs.com/teach/p/10763845.html
